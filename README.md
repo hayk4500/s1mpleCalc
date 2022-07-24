@@ -22,4 +22,4 @@
 ##
  [Ссылка на проект в GitHub](https://github.com/hayk4500/s1mpleCalc)
 ---
-![Здесь должен быть мем](mem.jpg)
+![Здесь должен быть мем](/mem.jpg)
